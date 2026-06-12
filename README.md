@@ -37,7 +37,7 @@
 ## Install & Upgrade to Latest Version
 
 ```sh
-bash <(curl -Ls https://raw.githubusercontent.com/alireza0/s-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/Mikronet-plus/s-ui/master/install.sh)
 ```
 
 ## Install legacy Version
@@ -45,7 +45,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/alireza0/s-ui/master/install.s
 **Step 1:** To install your desired legacy version, add the version to the end of the installation command. e.g., ver `1.0.0`:
 
 ```sh
-VERSION=1.0.0 && bash <(curl -Ls https://raw.githubusercontent.com/alireza0/s-ui/$VERSION/install.sh) $VERSION
+VERSION=1.0.0 && bash <(curl -Ls https://raw.githubusercontent.com/Mikronet-plus/s-ui/$VERSION/install.sh) $VERSION
 ```
 
 ## Manual installation
